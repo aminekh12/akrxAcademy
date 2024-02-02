@@ -1,4 +1,4 @@
-package Day8.Challenge1;
+package Day8.Challenges;
 
 public class ArrayindexOutofBoundChallenge {
     public static void main(String[] args) {
